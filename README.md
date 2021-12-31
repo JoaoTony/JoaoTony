@@ -4,9 +4,7 @@
 
 
 
-I'm a Frontend & mobile developer, passionate about physics & innovation.
-I am driven by curiosity and the need to learn more and more, with a spirit of continuous self-improvement.
-"Physics moves the universe, we all should learn physics"
+I'm an oriented-result frontend developer, focused on user experience. Comfortable team work with good communication skills.
  
 ##
 <!--
