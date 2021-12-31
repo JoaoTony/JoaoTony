@@ -3,6 +3,7 @@
 
 
 
+Passionate about frontend development and astronomy
 
 I'm an oriented-result frontend developer, focused on user experience. Comfortable team work with good communication skills.
  
